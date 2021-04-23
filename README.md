@@ -1,1 +1,1 @@
-https://OxeoH.github.io/rsschool-
+https://OxeoH.github.io/rsschool-cv/cv
