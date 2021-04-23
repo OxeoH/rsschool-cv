@@ -315,4 +315,5 @@ I took free online courses, tried to use the studied frameworks in practice.
 ##Education
 BNTU, Yandex courses, self-development by interests, etc.
 ##English
-Chatting with foreigners, watching videos of American bloggers and developers, reading frameworks documentations, etc.
+Chatting with foreigners, watching videos of American bloggers and developers, reading frameworks documentations, etc.  
+Thanks
