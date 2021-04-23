@@ -1,5 +1,3 @@
-https://OxeoH.github.io/rsschool-cv/cv
-
 # Resume
 Hello, my name is **Egor Timoshevich**.  
 
